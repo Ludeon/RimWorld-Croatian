@@ -22,6 +22,7 @@
 	
 	
   <!-- military aid request -->
+  <RequestMilitaryAid>Zatraži neposrednu vojnu pomoć (cijena: {0} dobre volje).</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} vam neće pomoći u odbrani protiv fakcija koje nisu njihovi neprijatelji. Ovo uključuje neke koje vam trenutno prijete, {1}. Da li još želite da zahtjevate pomoć?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Da, zovi ih ionako.</CallConfirm>
   <CallCancel>Ne, nema veze.</CallCancel>
