@@ -7,17 +7,17 @@
   <DesignatorCutPlants>Sjeci biljke</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Označava bilje koje će biti osječeno i uništeno. Biljke će biti potpuno uklonenje, ako ima hrane ili bilo kojeg drugog resursa bit će uzet.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Dekonstrukcija</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Dekonstruiši</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Dekonstruiši ovo i povrati nazad dio resursa.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Deinstaliraj</DesignatorUninstall>
   <DesignatorUninstallDesc>Deinstaliraj ovo tako da može biti pomjereno, prodano, ili postavljeno negdje drugo.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>Berba</DesignatorHarvest>
-  <DesignatorHarvestDesc>Označava biljke koje će biti pokošene za njihovu hranu i druge produkte.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Označava biljke koje će biti pokošene za svoje produkte.</DesignatorHarvestDesc>
 
   <DesignatorHarvestWood>Sjeci drva</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Označava drveće koja će biti osječena za drvljad.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Označava drveće koje će biti osječeno za drvljad.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>Prenos stvari</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Označava kamenje i druge stvari koje će biti prenijete do područja za odlaganje. Nije potrebno za stvari kao hrana ili mrtva tijela, jer su uvijek prenosivi.</DesignatorHaulThingsDesc>
@@ -38,43 +38,43 @@
   <DesignatorPlanRemove>Ukloni planove</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Ukloni planske dezignacije.</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeExpand>Proširi kućno područje</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonisti će popravljati građevine, čistiti podove, i gasiti vatre samo u području kuće.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Ukloni kućno područje</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Uklanja kućno područje. Kolonisti neće više čistiti, poravljati, ili gasiti vatre ovdje..</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaBuildRoofExpand>Dozvoli gradnju krova</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonisti će sagraditi krov u ovom području.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Ukloni područje gradnje krova</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>\nUkloni područje gdje će kolonisti graditi krovove. Već postojeći krovovi će ostati, ali kolonisti neće više graditi.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Clear no roof area</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaNoRoofExpand>Zabrani gradnju krova</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Kolonisti će ukloniti krov u ovom području (osim ako je iznad planina, što nije moguće ukloniti).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Ukloni zabranu gradnje krova</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Uklanja područje zabrane gradnje krova, tako da kolonisti neće više uklanjati krov.</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearExpand>Dozvoli čišćenje snijega</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Napravi područje koje će kolonisti pokušati da održavaju čisto od snijega.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Ukloni područje čisćenje snijega</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>\nUklanja područje oznaćeno za čisćenje snijega. Kolonisti neće više pokušavati da održavaju ovo područje čisto od snijega.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Clear allowed area</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>Manage areas...</ManageAreas>
+  <DesignatorExpandAreaAllowed>Proširi dozvoljeno područje</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Dozvoljena područja su definisana područja koja možete dodijeliti kolonistima. Kolonisti neće raditi poslove ili ispunjavati svoje potrebe izvan njima dopuštenog područja.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Ukloni dozvoljeno područje</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Dozvoljena područja su definisana područja koja možete dodijeliti kolonistima. Kolonisti neće raditi poslove ili ispunjavati svoje potrebe izvan njima dopuštenog područja.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Upravljaj područjima...</ManageAreas>
 
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Napravi zonu gdje će vaši kolonisti pokušati da uzgajaju određenu vrstu biljke.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Napravi mjesto za odlaganje gdje će vaši kolonisti spremati resurse.\nOva alatka također može proširiti već postojeće zone.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Napravi mjesto za odlaganje gdje će vaši kolonisti spremati smeće.\nOva alatka također može proširiti već postojeće zone.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Ukloni zone</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Ukloni zonu</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Ukloni zone, kao zone za skladištenje ili zone za rast.</DesignatorZoneDeleteDesc>
   
   <DesignatorClaim>Zauzmi</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Zauzmi neutralne građevine za koloniju, uključujući antičke ruševine i napuštene baze korištene za opsadu. Zauzete građevine mogu biti popravljane i održavane od strane vaših kolonista.</DesignatorClaimDesc>
 
   <DesignatorRemoveFloor>Ukloni pod</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>Uklonite pod da bi otkrili teren ispod.</DesignatorRemoveFloorDesc>
@@ -82,8 +82,8 @@
   <DesignatorStrip>Skini</DesignatorStrip>
   <DesignatorStripDesc>Skini odjeću sa mrtvih tijela i ranjenih.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Reaktiviraj zamku</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Reaktiviraj iskorištenu zamku tako da se može ponovno koristiti.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>Aktiviraj zamku</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Re-aktiviraj iskorištenu zamku tako da se može ponovno koristiti.</DesignatorRearmTrapDesc>
 
   <DesignatorOpen>Otvori</DesignatorOpen>
   <DesignatorOpenDesc>Otvori pune grobove ili spremnike.</DesignatorOpenDesc>
@@ -119,7 +119,7 @@
   
   
   <!-- Desc helpers -->
-  <TransmitsPower>Transmits power</TransmitsPower>
+  <TransmitsPower>Prenosi struju</TransmitsPower>
 
 
 </LanguageData>
