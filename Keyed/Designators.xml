@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>Prekini</DesignatorCancel>
+  <DesignatorCancelDesc>Prekini određeno građenje, rudarenje, teglenje, žetvu, i sve druge naredbe.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>Sjeci biljke</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Označava bilje koje će biti osječeno i uništeno. Biljke će biti potpuno uklonenje, ako ima hrane ili bilo kojeg drugog resursa bit će uzet.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct this and reclaim part of its resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>Dekonstrukcija</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Dekonstruiši ovo i povrati nazad dio resursa.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Uninstall</DesignatorUninstall>
-  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorUninstall>Deinstaliraj</DesignatorUninstall>
+  <DesignatorUninstallDesc>Deinstaliraj ovo tako da može biti pomjereno, prodano, ili postavljeno negdje drugo.</DesignatorUninstallDesc>
 
-  <DesignatorHarvest>Harvest</DesignatorHarvest>
-  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
+  <DesignatorHarvest>Berba</DesignatorHarvest>
+  <DesignatorHarvestDesc>Označava biljke koje će biti pokošene za njihovu hranu i druge produkte.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Sjeci drva</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Označava drveće koja će biti osječena za drvljad.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Can only designate haulable but non-always-hauled things (like rock chunks).</MustHaulHaulables>
+  <DesignatorHaulThings>Prenos stvari</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Označava kamenje i druge stvari koje će biti prenijete do područja za odlaganje. Nije potrebno za stvari kao hrana ili mrtva tijela, jer su uvijek prenosivi.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Može samo označiti stvari koje je potrebno prenijeti ali ne stvari koje se stalno prenose.</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>Lov</DesignatorHunt>
+  <DesignatorHuntDesc>Označava životinje koje će biti ulovljene od strane vaših lovaca.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>Kopanje</DesignatorMine>
+  <DesignatorMineDesc>Oznaći područja kamena ili rude koja će biti iskopana.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Smooth floor</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Designate rough stone terrain to be smoothed.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloor>Izravnaj pod</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Oznaći loš kameni teren za izravnavanje i uglađivanje.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlan>Planiranje</DesignatorPlan>
+  <DesignatorPlanDesc>Postavi planske dezignacije. Oni nemaju funkciju osim toga što vam pomažu da planirate ubuduće ekspanzije.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Ukloni planove</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Ukloni planske dezignacije.</DesignatorPlanRemoveDesc>
 
   <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
@@ -70,52 +70,52 @@
 
   <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>Ukloni zone</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Ukloni zone, kao zone za skladištenje ili zone za rast.</DesignatorZoneDeleteDesc>
   
-  <DesignatorClaim>Claim</DesignatorClaim>
+  <DesignatorClaim>Zauzmi</DesignatorClaim>
   <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloor>Ukloni pod</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Uklonite pod da bi otkrili teren ispod.</DesignatorRemoveFloorDesc>
 
-  <DesignatorStrip>Strip</DesignatorStrip>
-  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+  <DesignatorStrip>Skini</DesignatorStrip>
+  <DesignatorStripDesc>Skini odjeću sa mrtvih tijela i ranjenih.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>Reaktiviraj zamku</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Reaktiviraj iskorištenu zamku tako da se može ponovno koristiti.</DesignatorRearmTrapDesc>
 
-  <DesignatorOpen>Open</DesignatorOpen>
-  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  <DesignatorOpen>Otvori</DesignatorOpen>
+  <DesignatorOpenDesc>Otvori pune grobove ili spremnike.</DesignatorOpenDesc>
   
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorSlaughter>Zakolji</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Zakolji ukročenu životinju.</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorTame>Ukroti</DesignatorTame>
+  <DesignatorTameDesc>Ukroti divlju životinju.</DesignatorTameDesc>
 
 
   <!-- Failure messages -->
-  <UnchosenStuff>Unchosen material</UnchosenStuff>
-  <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
-  <OutOfBounds>Out of bounds.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked by {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} would block {1}'s interaction spot.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
-  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
-  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
+  <UnchosenStuff>Neizabran materijal.</UnchosenStuff>
+  <TooCloseToMapEdge>Preblizu ivici mape.</TooCloseToMapEdge>
+  <OutOfBounds>Izvan granica.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Ne može se postaviti u neistraženim područjima..</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Mjesto interakcije blokira {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Mjesto interakcije je izvan granica.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Mjesto intereakcije će blokirati {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} bi blokiralo {1} mjesto interakcije.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Teren ovdje je već {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Teren je već označen za poravnjavanje.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Identična stvar već postoji ovdje.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identičan nacrt već postoji ovdje.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Teren ovdje ne podržava to.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Mjesto je već zauzeto.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Morate izabrati uklonljiv pod.</TerrainMustBeRemovable>
   
   
   <!-- Mouse attachments -->
-  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
-  <CreateNewZone>Create new {0}</CreateNewZone>
+  <ExpandOrCreateZone>Proširi {0} ili\nNapravi novu {1}</ExpandOrCreateZone>
+  <CreateNewZone>Napravi novu {0}</CreateNewZone>
   
   
   <!-- Desc helpers -->
