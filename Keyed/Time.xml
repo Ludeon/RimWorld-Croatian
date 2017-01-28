@@ -6,31 +6,31 @@
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
   
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>dani</DaysLower>
+  <SecondsLower>sekunde</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
+  <SeasonSpring>proljeće</SeasonSpring>
+  <SeasonSummer>ljeto</SeasonSummer>
+  <SeasonFall>jesen</SeasonFall>
+  <SeasonWinter>zima</SeasonWinter>
 
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} seasons, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} seasons, {2} days</AgeBiological>
+  <Born>Rođenje: {0}</Born>
+  <AgeChronological>Hronološka starost: {0} godina, {1} sezona, {2} dana</AgeChronological>
+  <AgeBiological>Biološka starost: {0} godina, {1} sezona, {2} dana</AgeBiological>
 
   <!-- Date periods -->
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Season>1 season</Period1Season>
-  <PeriodSeasons>{0} seasons</PeriodSeasons>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+	<Period1Year>1 godina</Period1Year>
+  <PeriodYears>{0} godina</PeriodYears>
+  <Period1Season>1 sezona</Period1Season>
+  <PeriodSeasons>{0} sezona</PeriodSeasons>
+  <Period1Day>1 dan</Period1Day>
+  <PeriodDays>{0} dana</PeriodDays>
+  <Period1Hour>1 sat</Period1Hour>
+  <PeriodHours>{0} sati</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Started>Započeto</Started>
+  <Lasted>Trajalo</Lasted>
+  <OccurredTimeAgo>zbilo se {0} prije</OccurredTimeAgo>
   
 </LanguageData>
