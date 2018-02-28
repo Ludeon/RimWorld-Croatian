@@ -4,4 +4,4 @@ See this page for license info:
 
 http://ludeon.com/forums/index.php?topic=2933.0
 
-Ovo je Hrvatski prijevod za RimWorld, na linku iznad moûete pogledati informacije o licenci.
+Hrvatski prijevod za RimWorld, na linku iznad mo≈æete pogledati informacije o licenci.
