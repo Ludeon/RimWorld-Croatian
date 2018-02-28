@@ -1,22 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WorkTagNone>None</WorkTagNone>
-  <WorkTagIntellectual>Intellectual</WorkTagIntellectual>
-  <WorkTagManualDumb>Dumb labor</WorkTagManualDumb>
-  <WorkTagManualSkilled>Skilled labor</WorkTagManualSkilled>
-  <WorkTagViolent>Violent</WorkTagViolent>
-  <WorkTagCaring>Caring</WorkTagCaring>
-  <WorkTagSocial>Social</WorkTagSocial>
-  <WorkTagScary>Scary</WorkTagScary>
-  <WorkTagAnimals>Animals</WorkTagAnimals>
-  <WorkTagArtistic>Artistic</WorkTagArtistic>
-  <WorkTagCrafting>Crafting</WorkTagCrafting>
-  <WorkTagCooking>Cooking</WorkTagCooking>
-  <WorkTagFirefighting>Firefighting</WorkTagFirefighting>
-  <WorkTagCleaning>Cleaning</WorkTagCleaning>
-  <WorkTagHauling>Hauling</WorkTagHauling>
-  <WorkTagPlantWork>Plant work</WorkTagPlantWork>
-  <WorkTagMining>Mining</WorkTagMining>
+  <WorkTagNone>Nijedan</WorkTagNone>
+  <WorkTagIntellectual>Istraživanje</WorkTagIntellectual>
+  <WorkTagManualDumb>Glup rad</WorkTagManualDumb>
+  <WorkTagManualSkilled>Kvalificirani rad</WorkTagManualSkilled>
+  <WorkTagViolent>Nasilje</WorkTagViolent>
+  <WorkTagCaring>Briga</WorkTagCaring>
+  <WorkTagSocial>Druženje</WorkTagSocial>
+  <WorkTagAnimals>Životinje</WorkTagAnimals>
+  <WorkTagArtistic>Umjetnost</WorkTagArtistic>
+  <WorkTagCrafting>Izrada</WorkTagCrafting>
+  <WorkTagCooking>Kuhanje</WorkTagCooking>
+  <WorkTagFirefighting>Gašenje požara</WorkTagFirefighting>
+  <WorkTagCleaning>Čišćenje</WorkTagCleaning>
+  <WorkTagHauling>Prenošenje</WorkTagHauling>
+  <WorkTagPlantWork>Rad sa biljkama</WorkTagPlantWork>
+  <WorkTagMining>Rudarenje</WorkTagMining>
 
 </LanguageData>
