@@ -1,37 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- WITab titles -->
-  <TabTerrain>Terrain</TabTerrain>
+  <TabTerrain>Teren</TabTerrain>
   <TabPlanet>Planet</TabPlanet>
-  <TabCaravanSocial>Social</TabCaravanSocial>
-  <TabCaravanHealth>Health</TabCaravanHealth>
-  <TabCaravanNeeds>Needs</TabCaravanNeeds>
-  <TabCaravanGear>Gear</TabCaravanGear>
-  <TabCaravanItems>Items</TabCaravanItems>
-  
+  <TabCaravanSocial>Društvenost</TabCaravanSocial>
+  <TabCaravanHealth>Zdravlje</TabCaravanHealth>
+  <TabCaravanNeeds>Potrebe</TabCaravanNeeds>
+  <TabCaravanGear>Oprema</TabCaravanGear>
+  <TabCaravanItems>Predmeti</TabCaravanItems>
+
   <!-- Misc -->
-  <AbandonSliderText>Abandon {{0}}x {0}</AbandonSliderText>
-  <ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
-  <AbandonTip>Abandon</AbandonTip>
-  <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
-  <AbandonAllTip>Abandon (all)</AbandonAllTip>
-  <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
-  <AbandonTipWillDie>{0} will most likely die.</AbandonTipWillDie>
-  
+  <AbandonSliderText>Napusti {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Da li zbilja želite napustiti {0}?\n\nNapuštene stvari nestaju i nikad se ne mogu povratiti.</ConfirmAbandonItemDialog>
+  <AbandonTip>Napusti</AbandonTip>
+  <BanishTip>Protjeraj</BanishTip>
+  <AbandonSpecificCountTip>Napusti određeni broj</AbandonSpecificCountTip>
+  <AbandonAllTip>Napusti (sve)</AbandonAllTip>
+  <AbandonItemTipExtraText>Napuštene stvari nestaju i nikad se ne mogu povratiti.</AbandonItemTipExtraText>
+  <BanishTipWillDie>{0} će najvjerojatnije umrijeti.</BanishTipWillDie>
+
   <!-- Caravan inspect -->
-  <CaravanColonists>Colonists</CaravanColonists>
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
-  <CaravanItems>Inventory</CaravanItems>
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
-  
+  <CaravanColonists>Kolonisti</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Zatvorenici i životinje</CaravanPrisonersAndAnimals>
+  <CaravanItems>Inventar</CaravanItems>
+  <OpenSpecificTabButtonTip>Kliknite da bi otvorili karticu s više pojedinosti.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Zatvorenici</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Inventar</CaravanWeaponsAndApparel>
+  <NoneCapable>Nitko nije sposoban</NoneCapable>
+
   <!-- Caravan gear -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
-  
+  <DragToRearrange>Povucite za preuređivanje.</DragToRearrange>
+
   <!-- Planet -->
   <PlanetSeed>Seed</PlanetSeed>
-  <PlanetCoverageShort>Coverage</PlanetCoverageShort>
+  <PlanetCoverageShort>Pokrivenost</PlanetCoverageShort>
 
 </LanguageData>
