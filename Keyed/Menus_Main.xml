@@ -2,173 +2,188 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
-  <BackToGame>Back to game</BackToGame>
-  <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
-  <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
-  <QuitToOS>Quit to OS</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
+  <Tutorial>Tutorijal</Tutorial>
+  <NewColony>Nova kolonija</NewColony>
+  <BackToGame>Povratak u igru</BackToGame>
+  <ReviewScenario>Pregledajte scenarije</ReviewScenario>
+  <Save>Spremi</Save>
+  <LoadGame>Učitaj igru</LoadGame>
+  <Options>Opcije</Options>
+  <Mods>Modovi</Mods>
+  <Credits>Zasluge</Credits>
+  <QuitToMainMenu>Izađi u glavni izbornik</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Spremi i izađi u glavni izbornik</SaveAndQuitToMainMenu>
+  <QuitToOS>Potpuno izađi iz igre</QuitToOS>
+  <SaveAndQuitToOS>Spremi i potpuno izađi iz igre</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
-  <CreateWorld>Create world</CreateWorld>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Službena wiki</OfficialWiki>
+  <TynansTwitter>Tynan-ov twitter</TynansTwitter>
+  <TynansDesignBook>Tynan-ov knjiga dizajna</TynansDesignBook>
+  <HelpTranslate>Pomozite prevesti RimWorld</HelpTranslate>
+  <BuySoundtrack>Kupi glazbu</BuySoundtrack>
+  <CreateWorld>Napravite svijet</CreateWorld>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
-  <PlanetCoverage>Globe coverage</PlanetCoverage>
-  <PlanetRainfall>Overall rainfall</PlanetRainfall>
-  <PlanetTemperature>Overall temperature</PlanetTemperature>
-  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
-  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-  <PlanetRainfall_High>High</PlanetRainfall_High>
-  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
-  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-  <PlanetTemperature_High>High</PlanetTemperature_High>
+  <ReviewWorld>Pregledaj svijet</ReviewWorld>
+  <WorldGenerate>Generiraj</WorldGenerate>
+  <WorldSaveAndFinish>Spremi i završi</WorldSaveAndFinish>
+  <Reset>Resetiraj</Reset>
+  <PlanetCoverage>Pokrivenost planete</PlanetCoverage>
+  <PlanetRainfall>Globalne oborine</PlanetRainfall>
+  <PlanetTemperature>Globalna temperatura</PlanetTemperature>
+  <PlanetRainfall_Low>Niske</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normalne</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Visoke</PlanetRainfall_High>
+  <PlanetTemperature_Low>Niska</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normalna</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Visoka</PlanetTemperature_High>
   <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <RandomizeSeed>Slučajan seed</RandomizeSeed>
+  <PlanetCoverageTip>Planet je uvijek istog promjera, ali budući da je daleko veći nego što je potrebno za igru, ne stvaramo cijelu površinu jer to može potrajati jako dugo. Ovo je postotak površine koju želite generirati.</PlanetCoverageTip>
+  <WorldFactionsTab>Fakcije</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
-  
+  <SelectWorld>Odaberite svijet</SelectWorld>
+  <WorldChooseButton>Odaberi</WorldChooseButton>
+  <NoWorldsFilesFound>Nisu pronađeni spremljeni svjetovi. Prvo stvorite svijet.</NoWorldsFilesFound>
+
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Verzija {0} je dostupna. Posjetite ludeon.com za više informacija.</BuildNowAvailable>
+	<BuildUpToDate>Ovo je najnovija verzija.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Pogreška pri dohvaćanju informacija o verziji: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Učitavanje informacija o verziji...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Generiraj svijet</GenerateWorld>
 
   <!--=========== Mods config ==========-->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-  <DragToReorder>Drag to reorder</DragToReorder>
-  
+  <OpenSteamWorkshop>Otvori Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Preuzmite modove sa foruma</GetModsFromForum>
+  <OpenModsDataFolder>Otvori mapu sa modovima</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Jeste li sigurni da želite isključiti osnovni 'Core' mod? Igra uopće neće raditi osim ako nemate neki drugi mod koji zamjenjuje sve osnovne funkcije.\n\nZapamtite, ostali modovi mogu zamijeniti 'defs' u osnovnom 'Core' modu uz pomoć istih 'defName'.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Jeste li sigurni da želite izbrisati sav sadržaj za {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Otkaži pretplatu</Unsubscribe>
+  <ConfirmUnsubscribe>Jeste li sigurni da želite odjaviti pretplatu od {0}?</ConfirmUnsubscribe>
+  <Author>Autor</Author>
+  <WorkshopPage>Stranica Workshop-a</WorkshopPage>
+  <UploadToSteamWorkshop>Učitaj na Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Ažuriraj na Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Učitavanje je već u tijeku.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Učitavanje na Workshop nije uspjelo.\n\nRazlog: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Uspješno je učitano {0}.</WorkshopUploadSucceeded>
+  <Downloading>Preuzimanje</Downloading>
+  <Source>Izvor</Source>
+  <ModTargetVersion>Za verziju: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Ovaj mod nije napravljen za ovu verziju RimWorld-a i vjerojatno neće raditi ispravno.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod treba dobro oblikovanu ciljanu verziju u About.xml. Kao ovo: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Povuci za promjenu redoslijeda</DragToReorder>
+
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
+  <ChooseScenario>Izaberi scenarij</ChooseScenario>
+  <ScenariosCustom>Prilagodi</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
-  
+  <ScenarioEditor>Urednik scenarija</ScenarioEditor>
+  <Delete>Izbriši</Delete>
+
   <!--============ Scenario editor ===============-->
   <Seed>seed</Seed>
-  <Load>Load</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
-  
+  <Load>Učitaj</Load>
+  <EditMode>uredi</EditMode>
+  <Summary>Sažetak</Summary>
+  <AddPart>Dodaj ulogu</AddPart>
+  <TextFieldsMustBeFilled>Sva tekstualna polja moraju biti ispunjena.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Jeste li sigurni da želite prenijeti to u Steam Workshop?\n\nMorate pristati na uvjete pružanja usluge Steam Workshop-a. Ovdje možete pronaći cijele uvjete:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Logično da bi trebali prenijeti samo sadržaj koji ste sami stvorili.\n\nJeste li sami izradili ovaj sadržaj?</ConfirmContentAuthor>
+  <Incompatible>Nekompatibilno</Incompatible>
+  <TooMany>Previše (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Može se ažurirati na Workshop-u, budući da ste autor.</CanBeUpdatedOnWorkshop>
+
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <ChooseAIStoryteller>Odaberi AI pripovjedača</ChooseAIStoryteller>
+  <HowStorytellersWork>AI pripovjedač stvara događaje poput piratskih napada, pada resursa ili napada životinja. Njihovi odabiri utjecat će na priču vaše kolonije. Te postavke možete promijeniti u bilo kojem trenutku.</HowStorytellersWork>
+  <MustChooseDifficulty>Odaberite težinu.</MustChooseDifficulty>
+  <Difficulty>Težina</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Average temperature</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-	<AvgWinterTemp>Winter temperature</AvgWinterTemp>
-	<Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-	<MovementTimeNow>Current movement time</MovementTimeNow>
-	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
-	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <SelectLandingSite>Odaberi mjesto slijetanja</SelectLandingSite>
+  <SelectRandomSite>Slučajno odaberi mjesto</SelectRandomSite>
+  <SelectSite>Odaberi mjesto</SelectSite>
+  <MustSelectLandingSite>Molim da se odabere mjesto slijetanja.</MustSelectLandingSite>
+  <CannotLandBiome>Ne možete sletjeti na ovu površinu: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Površina nije implementirana</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Ne možete sletjeti na neprohodne planine.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} već ima bazu.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Već imate bazu tamo.</YourBaseAlreadyThere>
+  <TileOccupied>Ova je pločica zauzeta.</TileOccupied>
+  <FactionBaseAdjacent>Naselja ne mogu biti izravno jedna uz drugo.</FactionBaseAdjacent>
+  <Biome>Površina</Biome>
+  <Terrain>Teren</Terrain>
+  <Road>Cesta</Road>
+  <River>Rijeka</River>
+  <Elevation>Visina</Elevation>
+  <Fertility>Plodnost</Fertility>
+  <AvgTemp>Prosječna temperatura</AvgTemp>
+  <AvgSummerTemp>Ljetna temperatura</AvgSummerTemp>
+	<AvgWinterTemp>Zimska temperatura</AvgWinterTemp>
+	<Rainfall>Oborine</Rainfall>
+  <SpecialFeatures>Posebne značajke</SpecialFeatures>
+  <HasCoast0>Sjeverna obala</HasCoast0>
+  <HasCoast1>Istočna obala</HasCoast1>
+  <HasCoast2>Južna obala</HasCoast2>
+  <HasCoast3>Zapadna obala</HasCoast3>
+  <HasCaves>caves</HasCaves>
+  <FactionBase>Baza fakcije</FactionBase>
+  <StoneTypesHere>Vrste kamenja</StoneTypesHere>
+  <TimeZone>Vremenska zona</TimeZone>
+	<MovementTimeNow>Trenutačno vrijeme kretanja</MovementTimeNow>
+	<MovementTimeSummer>Ljetno vrijeme kretanja</MovementTimeSummer>
+	<MovementTimeWinter>Zimsko vrijeme kretanja</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Životinje mogu sada pasati</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Prosječna učestalost bolesti</AverageDiseaseFrequency>
+  <PerYear>po godini</PerYear>
 
 
 	<!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
-  
+  <CreateCharacters>Izradi karaktere</CreateCharacters>
+  <FirstNameDesc>Ime karaktera.\n\nPrikazuje se samo u određenim izbornicima.</FirstNameDesc>
+  <ShortIdentifierDesc>Kratki identifikator karaktera.\n\nUvijek je prikazano. Može biti ime ili prezime ili potpuno odvojeni nadimak.</ShortIdentifierDesc>
+  <LastNameDesc>Prezime karaktera.\n\nPrikazuje se samo u određenim izbornicima.</LastNameDesc>
+  <Randomize>Slučajan odabir</Randomize>
+  <AgeIndicator>dob {0}</AgeIndicator>
+  <Backstory>Pozadinska priča</Backstory>
+  <IncapableOf>Nesposoban za</IncapableOf>
+  <Traits>Osobine</Traits>
+  <PermanentMoodEffect>Stalni efekt raspoloženja</PermanentMoodEffect>
+  <Skills>Vještine</Skills>
+  <NoneLower>nema</NoneLower>
+  <Adulthood>Odraslost</Adulthood>
+  <Childhood>Djetinjstvo</Childhood>
+  <Male>muško</Male>
+  <Female>žensko</Female>
+  <Pain>Bol</Pain>
+  <Health>Zdravlje</Health>
+  <Relations>Odnosi</Relations>
+  <TeamSkills>Vještine tima</TeamSkills>
+  <StartingPawnsSelected>Odabrani</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Ostavljeni</StartingPawnsLeftBehind>
+
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
-  <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
-  
+  <Start>Početak</Start>
+  <Advanced>Napredno</Advanced>
+  <Next>Sljedeće</Next>
+  <Back>Povratak</Back>
+  <Gameplay>Igranje</Gameplay>
+  <ConfirmQuit>Stvarno izaći? Izgubit ćete nespremljeni napredak.</ConfirmQuit>
+  <EveryoneNeedsValidName>Svaka osoba treba valjano ime.</EveryoneNeedsValidName>
+  <Quit>Izađi</Quit>
+  <Ignore>Zanemari</Ignore>
+
   <!--============ Progress bar==============-->
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingMap>Generating map</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingWorld>Stvaranje svijeta</GeneratingWorld>
+  <GeneratingPlanet>Stvaranje planeta</GeneratingPlanet>
+  <GeneratingMap>Stvaranje karte</GeneratingMap>
+  <GeneratingMapForNewEncounter>Stvaranje karte za nove susrete</GeneratingMapForNewEncounter>
 
 </LanguageData>
