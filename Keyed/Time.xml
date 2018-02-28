@@ -1,36 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <LetterDay>d</LetterDay>
   <LetterHour>h</LetterHour>
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
-  
-  <DaysLower>dani</DaysLower>
-  <SecondsLower>sekunde</SecondsLower>
+
+  <DaysLower>dana</DaysLower>
+  <SecondsLower>sekundi</SecondsLower>
 
   <SeasonSpring>proljeće</SeasonSpring>
   <SeasonSummer>ljeto</SeasonSummer>
   <SeasonFall>jesen</SeasonFall>
   <SeasonWinter>zima</SeasonWinter>
+  <SeasonPermanentSummer>trajno ljeto</SeasonPermanentSummer>
+  <SeasonPermanentWinter>trajna zima</SeasonPermanentWinter>
 
-  <Born>Rođenje: {0}</Born>
-  <AgeChronological>Hronološka starost: {0} godina, {1} sezona, {2} dana</AgeChronological>
-  <AgeBiological>Biološka starost: {0} godina, {1} sezona, {2} dana</AgeBiological>
+  <QuadrumAprimay>Ožujak</QuadrumAprimay>
+  <QuadrumJugust>Lipanj</QuadrumJugust>
+  <QuadrumSeptober>Rujan</QuadrumSeptober>
+  <QuadrumDecembary>Prosinac</QuadrumDecembary>
+
+  <Born>Rođen: {0}</Born>
+  <AgeChronological>Kronološka dob: {0} godina, {1} mjeseci, {2} dana</AgeChronological>
+  <AgeBiological>Biološka dob: {0} godina, {1} mjeseci, {2} dana</AgeBiological>
 
   <!-- Date periods -->
 	<Period1Year>1 godina</Period1Year>
   <PeriodYears>{0} godina</PeriodYears>
-  <Period1Season>1 sezona</Period1Season>
-  <PeriodSeasons>{0} sezona</PeriodSeasons>
+  <Period1Quadrum>1 mjesec</Period1Quadrum>
+  <PeriodQuadrums>{0} mjeseca</PeriodQuadrums>
   <Period1Day>1 dan</Period1Day>
   <PeriodDays>{0} dana</PeriodDays>
   <Period1Hour>1 sat</Period1Hour>
   <PeriodHours>{0} sati</PeriodHours>
 
   <!-- Misc -->
-  <Started>Započeto</Started>
+  <Started>Započelo</Started>
   <Lasted>Trajalo</Lasted>
-  <OccurredTimeAgo>zbilo se {0} prije</OccurredTimeAgo>
-  
+  <OccurredTimeAgo>dogodilo prije {0}</OccurredTimeAgo>
+
 </LanguageData>
