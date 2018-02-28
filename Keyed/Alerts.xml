@@ -28,7 +28,7 @@
   <NeedWardenDesc>Imate zatvorenika, ali ni jedan kolonist nije određen za posao nadzornika.\n\nOdredite kolonista za posao nadzornika.</NeedWardenDesc>
 
   <LowFood>Niske razine hrane</LowFood>
-  <LowFoodDesc>Razine hrane su opasno niske.\n\n    Preostali broj obroka u zalihama: {0}\n    Broj kolonista i zatvorenika koji dobivaju hranu: {1}\n    Broj dana pokrivenih hranom u zalihama: {2}\n\nPosadte usjeve, kupite, pronađite, ili ubij životinje za hranu.</LowFoodDesc>
+  <LowFoodDesc>Razine hrane su opasno niske.\n\n    Preostali broj obroka u zalihama: {0}\n    Broj kolonista i zatvorenika koji konzumiraju hranu: {1}\n    Broj dana pokrivenih hranom u zalihama: {2}\n\nPosadte usjeve, kupite, pronađite, ili ubij životinje za hranu.</LowFoodDesc>
 
   <LowMedicine>Niske razine lijekova</LowMedicine>
   <LowMedicineDesc>Preostalo je {0} lijekova u zalihama.\n\nKupite lijekove od trgovaca.</LowMedicineDesc>
@@ -37,7 +37,7 @@
   <NeedColonistBeds>Kolonisti trebaju krevete</NeedColonistBeds>
   <NeedColonistBedsDesc>Ima više kolonista nego kreveta za koloniste. Netko će biti uskrećen za mjesto za spavanje.\n\nIli napravite više kreveta, ili promjenite krevete za zatvorenike u krevete za koloniste.\n\nAko nemate resursa, Mjesto za spavanje je besplatno i može se postaviti instantno.</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>Lovcu fali vatreno oružje</HunterLacksWeapon>
+  <HunterLacksWeapon>Lovcu nedostaje vatreno oružje</HunterLacksWeapon>
   <HunterLacksWeaponDesc>Kolonist koji je određen za lovca nema vatreno oružje.\n\nNeće loviti dok ne nosi vatreno oružje.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Istrošena odjeća</AlertTatteredApparel>
@@ -56,7 +56,7 @@
   <ExhaustionDesc>Ovi kolonisti su iscrpljeni i trebaju odmor:\n\n{0}\nDajte im odmora. Trebat će krevet označen za upotrebu kolonista. Također, pazite da nisu vojno postrojeni.</ExhaustionDesc>
 
   <NeedFoodHopper>Potreban lijevak za hranu</NeedFoodHopper>
-  <NeedFoodHopperDesc>Imate dispenzer hranjive paste bez lijevka pored.\n\nZa rad, dispenzer paste mora vući sastojke iz susjednog lijevka napunjenog sirovom hranom.\n\nIzgradite lijevak pokraj dispenzera.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Imate dispenzer hranjive paste bez lijevka pored.\n\nZa rad, dispenzer paste mora vući sastojke iz obližnjeg lijevka napunjenog sirovom hranom.\n\nIzgradite lijevak pokraj dispenzera.</NeedFoodHopperDesc>
 
   <NeedMealSource>Potreban izvor hrane</NeedMealSource>
   <NeedMealSourceDesc>Nemate načina pripremanja pravilnih jela od sirove hrane.\n\nIzgradite štednjak, logorsku vatru ili  dispenzer hranjive paste.\n\n(Ne može biti u zatvorskoj ćeliji, inače ih kolonisti ne mogu koristiti.)</NeedMealSourceDesc>
